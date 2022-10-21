@@ -1,2 +1,2 @@
-# github-example
-example to show how github works
+# capstone-project
+This is the capstone project.
